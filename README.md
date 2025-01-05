@@ -9,7 +9,7 @@ A Unity-based dungeon generation system that creates grid-based dungeon layouts 
 - Debug Visualization: Displays the grid structure and room layout in the Unity Editor using Gizmos.
 - Regeneration Support: Allows dynamic regeneration of the dungeon at runtime.
 
-For detailed setup, usage, and advanced configurations, please refer to the [Wiki](https://github.com/dennis112999/Dungeon Generation System/wiki).
+For detailed setup, usage, and advanced configurations, please refer to the [Wiki](https://github.com/dennis112999/Dungeon-Generation-System/wiki).
 
 # Demo
 https://github.com/user-attachments/assets/1341c34e-2f8e-4791-8f31-3d8fcff7d255
